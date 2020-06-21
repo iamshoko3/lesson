@@ -15,6 +15,11 @@
 ローカルにまずはaddしないといけないみたい。。
 
 ターミナルで
-git add memo.txt
-git commit -m "なんちゃらかんちゃら"  -mはmessageか
+git add memo.txt　＃このaddがステージするってことかな新規も上書きもまずadd 削除：rm（remove) 
+名前の変更・場所を移動：mv(move)
+http://tech.katsubemakito.net/git/git_move
+
+git commit -m "なんちゃらかんちゃら"  ＃-mは　--messageでも良い　
+
+
 
