@@ -1,0 +1,9 @@
+ vscodeとGitHubを連携
+ vscodeはプラグイン”Git History"をインストール
+
+ テストで自分のgit hubをclone(URLから）
+ cloneされたデータの保存先を決める
+ 私の場合は　/Users/uedashoko/document
+ とした。documentフォルダーは新規作成。
+
+ 
